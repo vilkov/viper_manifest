@@ -35,6 +35,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="viper" />
   <project path="packages/apps/SetupWizard" name="android_packages_apps_SetupWizard" groups="pdk-fs" remote="viper" />
   <project path="packages/apps/Venom" name="android_packages_apps_Venom" groups="pdk-fs" remote="viper" />
+  <project path="packages/apps/ViperOTA" name="android_packages_apps_ViperOTA" groups="pdk-fs" remote="viper" />
 
 <!-- Services -->
   <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="viper" />
@@ -48,6 +49,7 @@
 <!-- Vendor -->
   <project path="vendor/cmsdk" name="android_cm_platform_sdk" remote="viper" />
   <project path="vendor/viper" name="android_vendor_viper" remote="viper" />
+  <project path="vendor/ViperOTA" name="android_vendor_ViperOTA" remote="viperD" />
 
 <!-- Substratum Interfacer -->
   <project path="packages/apps/interfacer" name="Substratum/interfacer" remote="github" revision="n-rootless" />
