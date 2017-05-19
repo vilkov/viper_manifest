@@ -15,6 +15,10 @@
 	
   <remote  name="private"
            fetch="ssh://git@github.com" />
+		   
+   <remote  name="flash-gh"
+            revision="n7.1.2"
+            fetch="ssh://git@github.com/Flash-ROM/" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
