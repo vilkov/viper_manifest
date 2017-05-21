@@ -7,11 +7,11 @@
 
   <remote  name="viper"
            fetch="https://github.com/Viper0S"
-           revision="refs/heads/n-mr1" />
+           revision="refs/heads/nougat" />
 
   <remote  name="viperD"
            fetch="https://github.com/Viper0S-Devices"
-           revision="refs/heads/n-mr1" />
+           revision="refs/heads/nougat" />
 	
   <remote  name="private"
            fetch="ssh://git@github.com" />
