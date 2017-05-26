@@ -10,7 +10,7 @@
            revision="refs/heads/nougat" />
 
   <remote  name="viperD"
-           fetch="https://github.com/Viper0S-Devices"
+           fetch="https://github.com/ViperOS-Devices"
            revision="refs/heads/nougat" />
 	
   <remote  name="private"
