@@ -48,6 +48,5 @@
 <!-- Vendor -->
 <project path="vendor/cmsdk" name="android_cm_platform_sdk" remote="viper" />
 <project path="vendor/viper" name="android_vendor_viper" remote="viper" />
-<project path="vendor/ViperOTA" name="android_vendor_ViperOTA" remote="viper" />
 
 </manifest>
