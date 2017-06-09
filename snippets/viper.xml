@@ -30,6 +30,8 @@
 <project path="packages/apps/ViperOTA" name="android_packages_apps_ViperOTA" groups="pdk-fs" remote="viper" />
 <project path="packages/apps/VPapers" name="android_packages_apps_VPapers" groups="pdk-fs" remote="viper" />
 <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="viper" />
+<project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" remote="viper" />
+<project path="packages/apps/DSPlibs" name="android_packages_apps_DSPlibs" remote="viper" />
 
 <!-- Prebuilts -->
 <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" groups="pdk" remote="viper" />
