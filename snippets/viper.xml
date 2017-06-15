@@ -31,6 +31,7 @@
 <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="viper" />
 <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" remote="viper" />
 <project path="packages/apps/DSPlibs" name="android_packages_apps_DSPlibs" remote="viper" />
+<project path="packages/apps/VLauncher" name="android_packages_apps_VLauncher" remote="viper" />
 <project path="system/media" name="android_system_media" remote="viper" />
 
 <!-- Prebuilts -->
