@@ -9,7 +9,6 @@
     <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="viper" />
 
     <!-- Frameworks -->
-    <project path="frameworks/av" name="android_frameworks_av" groups="pdk" remote="viper" />
     <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="viper" />
     <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="viper" />
 
