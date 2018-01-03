@@ -6,7 +6,7 @@
            review="review.lineageos.org" />
 
   <remote name="viper"
-           fetch="https://github.com/ViperOS-Project"
+           fetch="https://github.com/vilkov"
            revision="refs/heads/nougat" />
 
   <remote name="viper-devices"
